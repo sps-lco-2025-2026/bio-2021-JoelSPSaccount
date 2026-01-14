@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="BIO2021/BIO2021.csproj" />
+  <Project Path="BIO2021Q2/BIO2021Q2.csproj" />
+  <Project Path="BIO2021Q3/BIO2021Q3.csproj" />
 </Solution>
